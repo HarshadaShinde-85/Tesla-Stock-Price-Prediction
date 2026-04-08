@@ -361,7 +361,3 @@ This project demonstrates:
 ✔ Model comparison strategies
 ✔ Visualization skills
 
-# 👩‍💻 Author
-
-**Harshada Shinde**
-MCA Student | Machine Learning Developer
