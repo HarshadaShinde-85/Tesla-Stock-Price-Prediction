@@ -135,9 +135,7 @@ High
 Low
 Volume
 
-Target column:
-
-Close
+Target column: Close
 
 Dataset split into:
 
