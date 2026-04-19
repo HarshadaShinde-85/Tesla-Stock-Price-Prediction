@@ -78,7 +78,6 @@ Pandas
 NumPy
 Matplotlib
 Scikit-learn
-OpenPyXL
 
 Development Tools:
 
@@ -119,12 +118,6 @@ Cleaning steps performed:
 * Checked missing values
 * Removed null values
 * Verified dataset consistency
-
-Example:
-
-data['Date'] = pd.to_datetime(data['Date'])
-data = data.sort_values(by='Date')
-data = data.dropna()
 
 # ⚙️ Step 3: Data Preprocessing
 
