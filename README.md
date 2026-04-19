@@ -267,11 +267,7 @@ Estimated Tesla Closing Price
 
 ### Step 1: Clone Repository
 
-```
 git clone https://github.com/yourusername/Tesla-Stock-Price-Prediction.git
-```
-
----
 
 ### Step 2: Navigate to Project Folder
 
@@ -349,6 +345,6 @@ This project demonstrates:
 ✔ Regression modeling techniques
 ✔ Financial dataset preprocessing
 ✔ Feature engineering basics
-✔ Model comparison strategies
+✔ Model comparison strategies]
 ✔ Visualization skills
 
